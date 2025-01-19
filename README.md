@@ -34,7 +34,7 @@ Selamat datang di repository **Portfolio Website**! 🌟 Website ini dirancang u
 ## Screenshot 📸
 
 ### Halaman Awal 🏠
-![Halaman Awal]
+
 <img src="screenshoot.png">
 
 ### Tentang Saya 📖

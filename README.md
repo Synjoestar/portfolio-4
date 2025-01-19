@@ -35,7 +35,7 @@ Selamat datang di repository **Portfolio Website**! 🌟 Website ini dirancang u
 
 ### Halaman Awal 🏠
 ![Halaman Awal]
-img src = screenshoot.png
+<img src="screenshoot.png">
 
 ### Tentang Saya 📖
 ![About Me](https://via.placeholder.com/600x400?text=Tentang+Saya)
